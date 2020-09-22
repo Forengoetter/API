@@ -1,0 +1,27 @@
+{
+    "title" : "Farmen Verzeichnis",
+    "icon" : "<i class='fas fa-tractor'></i>",
+    "description" : "Die Verzsichnis der Farmen API kann verwendet werden um das Verzeichnis der Farmen der FOG einzusehen.",
+    "keywords" : [
+        "farm",
+        "farms",
+        "listoffarms",
+        "farming",
+        "fogfarms"
+    ],
+    "page" : "index.md",
+    "pages" : [
+        {
+            "title" : "Parameter",
+            "page" : "parameters.md"
+        },
+        {
+            "title" : "Rückgabewerte",
+            "page" : "response.md"
+        },
+        {
+            "title" : "Beispiele",
+            "page" : "examples.md"
+        }
+    ]
+}
