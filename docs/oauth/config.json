@@ -1,0 +1,35 @@
+{
+    "title": "OAuth",
+    "icon": "<i class='fas fa-lock'><\/i>",
+    "description": "Das Foreng\u00f6tter OAuth System funktioniert \u00e4hnlich zu anderen OAuth Systemen. Du kannst neben den \u00fcblichen Benutzerdaten wie E-Mail Adresse, Benutzername und Avatar auch noch den Minecraft Namen sowie die UUID abfragen um so beispielsweise eine Minecraft verifikation zu erstellen.",
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "login",
+        "3rdparty",
+        "loginwithfog"
+    ],
+    "page": "index.md",
+    "pages": [
+        {
+            "title": "Informationen",
+            "page": "informations.md"
+        },
+        {
+            "title": "Erhalt der Nutzerdaten",
+            "page": "gettinguserdata.md"
+        },
+		{
+            "title": "Parameter",
+            "page": "parameters.md"
+        },
+		{
+            "title": "Rückgabewerte",
+            "page": "response.md"
+        },
+		{
+            "title": "Beispiele",
+            "page": "examples.md"
+        }
+    ]
+}
