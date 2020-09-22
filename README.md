@@ -1,5 +1,5 @@
 # API
-this is the source repo of the (Forengötter API)[https://api.forengoetter.org].
+this is the source repo of the [Forengötter API](https://api.forengoetter.org).
 
 # Instructions
 In this file you will find the instructions for handling the api docs
