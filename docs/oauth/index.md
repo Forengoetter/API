@@ -1,0 +1,1 @@
+Das Forengötter OAuth System funktioniert ähnlich zu anderen OAuth Systemen. Du kannst neben den üblichen Benutzerdaten wie E-Mail Adresse, Benutzername und Avatar auch noch den Minecraft Namen sowie die UUID abfragen um so beispielsweise eine Minecraft verifikation zu erstellen.
