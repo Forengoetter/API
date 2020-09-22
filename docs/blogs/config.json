@@ -1,0 +1,27 @@
+{
+    "title" : "Blogs",
+    "icon" : "<i class='fas fa-rss'></i>",
+    "description" : "Die Blog API kann verwendet werden um Blogs der Forengötter auszulesen, dies geschieht jedoch nur wenn dieser Blog bereits auf öffentlich gestellt ist.",
+    "keywords" : [
+        "blog",
+        "blogging",
+        "articles",
+        "article",
+        "artikel"
+    ],
+    "page" : "index.md",
+    "pages" : [
+        {
+            "title" : "Parameter",
+            "page" : "parameters.md"
+        },
+        {
+            "title" : "Rückgabewerte",
+            "page" : "response.md"
+        },
+        {
+            "title" : "Beispiele",
+            "page" : "examples.md"
+        }
+    ]
+}
