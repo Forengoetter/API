@@ -1,0 +1,1 @@
+Die Wissensdatenbank API ist eine wichtige API für unsere Knowledgebase. Sie erkennt aufgrund von sogenannten Schlüsselwörtern Inhalte einer Frage zum GrieferGames.net Netzwerk, und versucht diese durch diese vordefinierten Schlüsselwörter bestmöglich zu beantworten.
