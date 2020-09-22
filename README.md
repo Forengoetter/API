@@ -29,3 +29,7 @@ In this file you will find the instructions for handling the api docs
 6) this is an object in the pages array, in this case its the title
 7) the markdown string or the filename of the file used for this page (only files in the directory of the config file are allowed to be used!)
 
+In all markdown cases you can use GFM, you also can use two custom *BB-Codes*, both should only be used within code blocks:
+- [tryit={URL}][/tryit] => creates an **TryIt** Button for the given URL
+- [author={AUTHOR}] => adds an simple author note on a pice of code
+
