@@ -4,7 +4,7 @@ this is the source repo of the [Forengötter API](https://api.forengoetter.org).
 # Instructions
 In this file you will find the instructions for handling the api docs
 
-1. create a folder in the `docs` folder (use a good name because it's associated with the namespace)
+1. create a folder in the this folder (use a good name because it's associated with the namespace)
 2. go into this created folder and create a file named `config.json`, without this file the system won't recognize that there is any content
 2.1. open the `config.json` file and put in the **JSON** content (I'll use numbers associated with the descriptions below):
 ```json
